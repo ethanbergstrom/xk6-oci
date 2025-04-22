@@ -1,4 +1,4 @@
-package main
+package xk6_oci
 
 import (
 	"bytes"
